@@ -8,4 +8,9 @@ public class AppTest {
     public void testApp() {
         assertTrue(true);
     }
+
+    @Test
+    public void testApp1() {
+        assertTrue(false);
+    }
 }
